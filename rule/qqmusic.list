@@ -22,3 +22,4 @@ IP-CIDR,113.108.28.158/32
 DOMAIN,soup.v.qq.com
 DOMAIN,acc.music.qq.com
 DOMAIN,ping.huatuo.qq.com
+PROCESS-NAME,QQMusic
