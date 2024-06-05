@@ -1,4 +1,3 @@
-DOMAIN,music.qq.com
 DOMAIN,dldir1.qq.com
 DOMAIN,music.tc.qq.com
 DOMAIN,aqqmusic.tc.qq.com
@@ -7,10 +6,10 @@ DOMAIN,ios.rqd.qq.com
 DOMAIN,y.gtimg.cn
 DOMAIN-KEYWORD,tencentmusic.com
 DOMAIN-KEYWORD,qqmusic.qq.com
+DOMAIN-KEYWORD,music.qq.com
 DOMAIN,pingfore.qq.com
 DOMAIN-KEYWORD,y.qq.com
 DOMAIN,user.weiyun.com
 DOMAIN,soup.v.qq.com
-DOMAIN,acc.music.qq.com
 DOMAIN,ping.huatuo.qq.com
 PROCESS-NAME,QQMusic
